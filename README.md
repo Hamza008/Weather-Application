@@ -109,3 +109,10 @@ The **Home Screen** observes the following states:
 ```bash
 git clone https://github.com/your-username/weather-demo.git
 ```
+## App Demo Video
+
+Here’s a demo of the app flow showing the Home Screen, Search Screen, user gude popup and the weather fetching process.
+
+[Weather App Flow Demo](./media/flow.mp4)
+
+[Weather_App Permission Flow Demo](./media/flow2.mp4)
